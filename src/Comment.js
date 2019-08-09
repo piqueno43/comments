@@ -15,8 +15,7 @@ const Comment = ({ c }) => {
     <div>      
       Comentário: {comment} 
       <br/>
-      Enviado por: {email}
-      <hr/>
+      Enviado por: {email}      
     </div>
   )
 }
